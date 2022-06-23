@@ -1,6 +1,3 @@
-// аня супер клас
-//хто не вірить тому в глаз
-//
 
 #include "Person.h"
 #include <iostream>
